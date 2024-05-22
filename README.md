@@ -1,1 +1,2 @@
-# enfin-dev-repo
+# TO RUN
+node server.js
